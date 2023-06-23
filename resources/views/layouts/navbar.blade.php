@@ -16,7 +16,7 @@
                     <a class="nav-link text-white" href="{{ route('rental.index') }}">E-BIKE RENTAL</a>
                 </li>
                 <li class="nav-item px-2">
-                    <a class="nav-link text-white" href="">PARTNERSHIP</a>
+                    <a class="nav-link text-white" href="{{ route('partner.index') }}">PARTNERSHIP</a>
                 </li>
                 <li class="nav-item px-2">
                     <a class="nav-link text-white" href="">ABOUT UNIKAT</a>
