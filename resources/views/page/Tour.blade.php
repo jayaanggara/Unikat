@@ -1,16 +1,16 @@
 @extends('layouts.app')
 @section('content')
     <header
-        style="background-image: url('{{ asset('assets/images/background.png') }}'); height: 80vh;background-position: center;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('{{ asset('assets/images/background/background-tour.png') }}'); height: 80vh;background-position: center;background-repeat: no-repeat;background-size: cover;">
         <div class="container h-100">
             <div class="row align-items-center h-100">
                 <div>
                     <div class="col-md-6">
-                        <h1 class="fw-48 fw-bold text-uppercase text-white">Experience bali
-                            bike never before with our e-bike rentals and tours</h1>
+                        <h1 class="fw-48 fw-bold text-uppercase text-white">e-bike tour :
+                            ride through Bali's natural beauty in a new way</h1>
                         <div>
                             <a href="" class="btn btn-success px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
-                            <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold">E-BIKE TOUR</a>
+                            <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold">LEARN MORE</a>
                         </div>
                     </div>
                 </div>
