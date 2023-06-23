@@ -13,7 +13,7 @@
                     <a class="nav-link text-white" href="{{ route('tour.index') }}">E-BIKE TOUR</a>
                 </li>
                 <li class="nav-item px-2">
-                    <a class="nav-link text-white" href="">E-BIKE RENTAL</a>
+                    <a class="nav-link text-white" href="{{ route('rental.index') }}">E-BIKE RENTAL</a>
                 </li>
                 <li class="nav-item px-2">
                     <a class="nav-link text-white" href="">PARTNERSHIP</a>
