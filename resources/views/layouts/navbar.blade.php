@@ -19,7 +19,7 @@
                     <a class="nav-link text-white" href="{{ route('partner.index') }}">PARTNERSHIP</a>
                 </li>
                 <li class="nav-item px-2">
-                    <a class="nav-link text-white" href="">ABOUT UNIKAT</a>
+                    <a class="nav-link text-white" href="{{ route('about.index') }}">ABOUT UNIKAT</a>
                 </li>
                 <li class="nav-item px-2">
                     <a class="nav-link text-white" href="">BOOK NOW</a>

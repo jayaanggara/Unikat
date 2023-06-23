@@ -5,6 +5,7 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\TourController;
 use App\Http\Controllers\RentalController;
 use App\Http\Controllers\PartnerController;
+use App\Http\Controllers\AboutController;
 
 /*
 |--------------------------------------------------------------------------
@@ -28,3 +29,5 @@ Route::resource('tour', TourController::class);
 Route::resource('rental', RentalController::class);
 
 Route::resource('partner', PartnerController::class);
+
+Route::resource('about', AboutController::class);
