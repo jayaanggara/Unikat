@@ -20,8 +20,8 @@
 
 
     <section>
-        <div class="container pt-5 p-b-150">
-            <div class="col-md-10 mx-auto">
+        <div class="container">
+            <div class="col-md-10 mx-auto pt-5 p-b-150 p-md-b-50">
                 <div class="row align-items-center pb-4">
                     <div class="col-md-6">
                         <h2 class="text-uppercase f-24 fw-bold pb-2">Your partner for a </br> healthy, sustainable,</br> and
@@ -67,8 +67,8 @@
     </section>
 
     <section>
-        <div class="container pt-5 p-b-150">
-            <div class="col-md-10 mx-auto">
+        <div class="container">
+            <div class="col-md-10 mx-auto pt-5 p-b-150 p-md-b-50">
                 <h2 class="fw-bold h4 text-center">why partner with us?</h2>
                 <div class="row row-cols-1 row-cols-md-3 py-4">
                     <div class="col pb-4">

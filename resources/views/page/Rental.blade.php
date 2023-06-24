@@ -19,8 +19,8 @@
     </header>
 
     <section class="b-white">
-        <div class="container py-5 p-b-125">
-            <div class="col-md-10 mx-auto">
+        <div class="container">
+            <div class="col-md-10 mx-auto py-5 p-b-125">
                 <div class="text-center col-md-5 mx-auto">
                     <h2 class="text-uppercase f-24 fw-bold pb-4">e-bike rental : </br>
                         Explore Bali at your own pace in</br> a sustainable way</h2>
@@ -68,8 +68,8 @@
     </section>
 
     <section>
-        <div class="container p-y-150">
-            <div class="col-md-10 mx-auto">
+        <div class="container">
+            <div class="col-md-10 mx-auto p-y-150 p-md-y-50">
                 <div class="row align-items-center pb-4">
                     <div class="col-md-6">
                         <h2 class="text-uppercase f-24 fw-bold pb-2">choose the right plan for </br> your e-bike rental</h2>
@@ -118,8 +118,8 @@
     </section>
 
     <section class="b-white">
-        <div class="container py-5">
-            <div class="col-md-10 mx-auto">
+        <div class="container">
+            <div class="col-md-10 mx-auto py-5">
                 <div class="row">
                     <div class="col-md-5">
                         <h2 class="fw-bold text-uppercase">why rent with </br> unikat</h2>
@@ -154,10 +154,10 @@
     </section>
 
     <section>
-        <div class="container p-t-150 pb-5">
-            <div class="col-md-10 mx-auto">
+        <div class="container">
+            <div class="col-md-10 mx-auto p-t-150 p-md-t-50 pb-5">
                 <h2 class="fw-bold text-uppercase h4 text-center pb-4">unikat e-bike RENTAL price list</h2>
-                <div class="row row-cols-md-4 row-cols-2 ">
+                <div class="row row-cols-md-4 row-cols-2">
                     <div class="col">
                         <div class="b-main-color text-white text-center">
                             <div class="text-uppercase fw-bold py-4 px-2 h4">Daily</br>Plan</div>
@@ -183,7 +183,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="text-center">
+                <div class="text-center pt-4">
                     <a href="" class="btn btn-success px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
                     <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold border">MORE INFO</a>
                 </div>
@@ -192,24 +192,26 @@
     </section>
 
     <section>
-        <div class="container pb-5 p-b-150">
-            <div class="col-md-10 mx-auto p-4 border" style="background:#f5f5f5">
-                <div class="row">
-                    <div class="col-md-6">
-                        <h2 class="text-uppercase f-24 fw-bold pb-2">UNikat e-bike rental </br> Terms & Conditions</h2>
-                    </div>
-                    <div class="col-md-6">
-                        <div>
-                            <p>
-                            <ol>
-                                <li>High-quality e-bike with complete equipment; helmet, lamp, road apps, route map, and
-                                    lock.</li>
-                                <li>Full support for e-bike maintenance and safety emergencies.</li>
-                                <li>Net price; service and tax included.</li>
-                                <li>Transport fee up to 20 KM delivery and pickup for rentals will be charged IDR. 200.000 /
-                                    bike</li>
-                            </ol>
-                            </p>
+        <div class="container">
+            <div class="p-b-150 p-md-b-50">
+                <div class="col-md-10 mx-auto p-4 border b-white">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h2 class="text-uppercase f-24 fw-bold pb-2">UNikat e-bike rental </br> Terms & Conditions</h2>
+                        </div>
+                        <div class="col-md-6">
+                            <div>
+                                <p>
+                                <ol>
+                                    <li>High-quality e-bike with complete equipment; helmet, lamp, road apps, route map, and
+                                        lock.</li>
+                                    <li>Full support for e-bike maintenance and safety emergencies.</li>
+                                    <li>Net price; service and tax included.</li>
+                                    <li>Transport fee up to 20 KM delivery and pickup for rentals will be charged IDR. 200.000 /
+                                        bike</li>
+                                </ol>
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>

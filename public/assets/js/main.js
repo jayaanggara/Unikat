@@ -3,17 +3,19 @@ $('.slider-default').owlCarousel({
     loop:false,
     margin:10,
     dots: false,
-    nav:true,
     navText: ['<img class="icon-slider" src="../assets/images/icon/left.png">', '<img class="icon-slider" src="../assets/images/icon/right.png">'],
     autoHeight: true,
     responsive:{
         0:{
+            nav:false,
             items:1
         },
         600:{
+            nav:true,
             items:2
         },
         1000:{
+            nav:true,
             items:3
         }
     }
@@ -36,6 +38,20 @@ $('.slider-tour').owlCarousel({
     navText: ['<img class="icon-slider" src="../assets/images/icon/left.png">', '<img class="icon-slider" src="../assets/images/icon/right.png">'],
     autoHeight: true,
     items:1,
+    responsive:{
+        0:{
+            nav:false,
+            items:1
+        },
+        600:{
+            nav:true,
+            items:1
+        },
+        1000:{
+            nav:true,
+            items:1
+        }
+    }
 });
 
 

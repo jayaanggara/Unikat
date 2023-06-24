@@ -18,9 +18,9 @@
         </div>
     </header>
 
-    <section style="background:#f5f5f5">
-        <div class="container py-5">
-            <div class="col-md-10 mx-auto">
+    <section class="b-white">
+        <div class="container">
+            <div class="col-md-10 mx-auto py-5">
                 <div class="row justify-content-between align-items-center">
                     <div class="col-md-4 pb-md-0 pb-4">
                         <img src="{{ asset('assets/images/logo-black.png') }}" alt="">
@@ -40,8 +40,8 @@
     </section>
 
     <section>
-        <div class="container p-t-150 p-b-125 p-md-t-50 p-md-b-50">
-            <div class="col-md-10 mx-auto">
+        <div class="container">
+            <div class="col-md-10 mx-auto p-t-150 p-b-125 p-md-t-50 p-md-b-50">
                 <div class="row align-items-center pb-4">
                     <div class="col-md-6">
                         <h2 class="text-uppercase f-24 fw-bold pb-2">Immerse yourself in a worry-free exploration adventure with
@@ -95,8 +95,8 @@
     </section>
 
     <section>
-        <div class="container p-b-150 p-md-b-50">
-            <div class="col-md-10 mx-auto">
+        <div class="container">
+            <div class="col-md-10 mx-auto p-b-150 p-md-b-50">
                 <div class="row align-items-center pb-4">
                     <div class="col-md-6">
                         <h2 class="text-uppercase f-24 fw-bold pb-2">designed for an eco-friendly </br> and comfortable ride in
@@ -157,8 +157,8 @@
     </section>
 
     <section class="b-white">
-        <div class="container py-5">
-            <div class="col-md-10 mx-auto">
+        <div class="container">
+            <div class="col-md-10 mx-auto py-5">
                 <div class="row align-items-center pb-4">
                     <div class="col-md-6">
                         <h2 class="text-uppercase f-24 fw-bold pb-2">meet the team
