@@ -20,56 +20,58 @@
 
 
     <section>
-        <div class="container py-5">
-            <div class="row align-items-center pb-4">
-                <div class="col-md-6">
-                    <h2 class="text-uppercase f-24 fw-bold pb-2">Your partner for a </br> healthy, sustainable,</br> and
-                        better
-                        Bali </h2>
+        <div class="container pt-5 p-b-150">
+            <div class="col-md-10 mx-auto">
+                <div class="row align-items-center pb-4">
+                    <div class="col-md-6">
+                        <h2 class="text-uppercase f-24 fw-bold pb-2">Your partner for a </br> healthy, sustainable,</br> and
+                            better
+                            Bali </h2>
+                    </div>
+                    <div class="col-md-6">
+                        <p>Unikat partners that share our eco-friendly vision. Together, we offer unforgettable experiences
+                            while preserving the environment.</p>
+                    </div>
                 </div>
-                <div class="col-md-6">
-                    <p>Unikat partners that share our eco-friendly vision. Together, we offer unforgettable experiences
-                        while preserving the environment.</p>
-                </div>
-            </div>
-            <div class="row row-cols-3">
-                <div class="col">
-                    <img src="{{ asset('assets/images/partner/partner-1.png') }}" alt="" class="w-100 py-3">
-                </div>
-                <div class="col">
-                    <img src="{{ asset('assets/images/partner/partner-2.png') }}" alt="" class="w-100 py-3">
-                </div>
-                <div class="col">
-                    <img src="{{ asset('assets/images/partner/partner-3.png') }}" alt="" class="w-100 py-3">
-                </div>
-                <div class="col">
-                    <img src="{{ asset('assets/images/partner/partner-4.png') }}" alt="" class="w-100 py-3">
-                </div>
-                <div class="col">
-                    <img src="{{ asset('assets/images/partner/partner-5.png') }}" alt="" class="w-100 py-3">
-                </div>
-                <div class="col">
-                    <img src="{{ asset('assets/images/partner/partner-6.png') }}" alt="" class="w-100 py-3">
-                </div>
-                <div class="col">
-                    <img src="{{ asset('assets/images/partner/partner-7.png') }}" alt="" class="w-100 py-3">
-                </div>
-                <div class="col">
-                    <img src="{{ asset('assets/images/partner/partner-8.png') }}" alt="" class="w-100 py-3">
-                </div>
-                <div class="col">
-                    <img src="{{ asset('assets/images/partner/partner-9.png') }}" alt="" class="w-100 py-3">
+                <div class="row row-cols-1 row-cols-md-3">
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-1.png') }}" alt="" class="w-100 py-3">
+                    </div>
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-2.png') }}" alt="" class="w-100 py-3">
+                    </div>
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-3.png') }}" alt="" class="w-100 py-3">
+                    </div>
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-4.png') }}" alt="" class="w-100 py-3">
+                    </div>
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-5.png') }}" alt="" class="w-100 py-3">
+                    </div>
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-6.png') }}" alt="" class="w-100 py-3">
+                    </div>
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-7.png') }}" alt="" class="w-100 py-3">
+                    </div>
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-8.png') }}" alt="" class="w-100 py-3">
+                    </div>
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-9.png') }}" alt="" class="w-100 py-3">
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
     <section>
-        <div class="container">
-            <div class="py-5">
+        <div class="container pt-5 p-b-150">
+            <div class="col-md-10 mx-auto">
                 <h2 class="fw-bold h4 text-center">why partner with us?</h2>
-                <div class="row row-cols-3 py-4">
-                    <div class="col">
+                <div class="row row-cols-1 row-cols-md-3 py-4">
+                    <div class="col pb-4">
                         <div class="w-100 h-100 border px-4 py-5 text-center">
                             <img src="{{ asset('assets/images/icon/partner-1.png') }}" alt="">
                             <h3 class="h5 fw-bold py-3">Diversity for sustainability</h3>
@@ -78,7 +80,7 @@
                                 of all types - including hotels, cafes, and more.</p>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col pb-4">
                         <div class="w-100 h-100 border px-4 py-5 text-center">
                             <img src="{{ asset('assets/images/icon/partner-1.png') }}" alt="">
                             <h3 class="h5 fw-bold py-3">Diversity for sustainability</h3>
@@ -87,7 +89,7 @@
                                 of all types - including hotels, cafes, and more.</p>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col pb-4">
                         <div class="w-100 h-100 border px-4 py-5 text-center">
                             <img src="{{ asset('assets/images/icon/partner-1.png') }}" alt="">
                             <h3 class="h5 fw-bold py-3">Diversity for sustainability</h3>
