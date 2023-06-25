@@ -9,7 +9,7 @@
                         <h1 class="fw-48 fw-bold text-uppercase text-white">partnership with unikat for a sustainable and
                             better Bali</h1>
                         <div>
-                            <a href="" class="btn btn-success px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
+                            <a href="" class="btn b-green text-white px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
                             <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold">LEARN MORE</a>
                         </div>
                     </div>
@@ -100,7 +100,8 @@
                     </div>
                 </div>
                 <div class="text-center">
-                    <a href="" class="btn btn-success text-uppercase fw-bold rounded-0 px-4">partnership enquiry</a>
+                    <a href="" class="btn b-green text-white text-uppercase fw-bold rounded-0 px-4">partnership
+                        enquiry</a>
                 </div>
             </div>
         </div>

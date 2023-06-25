@@ -9,7 +9,7 @@
                         <h1 class="fw-48 fw-bold text-uppercase text-white">e-bike tour :
                             ride through Bali's natural beauty in a new way</h1>
                         <div>
-                            <a href="" class="btn btn-success px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
+                            <a href="" class="btn b-green text-white px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
                             <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold">LEARN MORE</a>
                         </div>
                     </div>
@@ -25,7 +25,8 @@
                         <h2 class="h4 fw-bold">CHOOSE YOUR PREFERRED </br> PACKAGES & ADD-ONs</h2>
                     </div>
                     <div class="col">
-                        <p class="mb-0">We offer various plans to cater to your adventure needs. Whether you want to explore
+                        <p class="mb-0">We offer various plans to cater to your adventure needs. Whether you want to
+                            explore
                             Bali's cultural
                             sites or take in the stunning scenery, we have a plan that's perfect for you.</p>
                     </div>
@@ -64,9 +65,12 @@
                         <h3 class="h4 fw-bold">YOU CAN CHOOSE THE</br>AREA AND DESIRED TIME</br>AND SCOPE WITH US</h3>
                     </div>
                     <div class="col">
-                        <p>UNIKAT knows the best routes, but also stands for unique, which is why we give you the opportunity to
-                            take your wishes into account on all tours, including adapting the length of the tour to your pace
-                            so that you can finish your tour safely and without stress and the entire group stays together.</p>
+                        <p>UNIKAT knows the best routes, but also stands for unique, which is why we give you the
+                            opportunity to
+                            take your wishes into account on all tours, including adapting the length of the tour to your
+                            pace
+                            so that you can finish your tour safely and without stress and the entire group stays together.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -206,7 +210,7 @@
                     </div>
                 </div>
                 <div class="text-center pt-4">
-                    <a href="" class="btn btn-success px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
+                    <a href="" class="btn b-green text-white px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
                     <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold border">MORE INFO</a>
                 </div>
             </div>

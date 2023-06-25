@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+<nav class="navbar navbar-expand-lg b-nav navbar-dark py-4">
     <div class="container">
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand pt-0" href="/">
             <img src={{ asset('assets/images/logo.png') }} style="width:150px" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -25,7 +25,8 @@
                     <a class="nav-link text-white" href="">BOOK NOW</a>
                 </li>
                 <li class="nav-item px-2">
-                    <a class="nav-link text-white btn btn-success rounded-pill px-4 py-0" href="">SIGN IN</a>
+                    <a class="nav-link text-white btn b-green text-white rounded-pill px-4 py-0" href="">SIGN
+                        IN</a>
                 </li>
             </ul>
         </div>

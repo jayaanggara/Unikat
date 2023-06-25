@@ -9,7 +9,7 @@
                         <h1 class="fw-48 fw-bold text-uppercase text-white">e-bike rental: Explore Bali sustainably at your
                             own pace</h1>
                         <div>
-                            <a href="" class="btn btn-success px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
+                            <a href="" class="btn b-green text-white px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
                             <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold">LEARN MORE</a>
                         </div>
                     </div>
@@ -31,9 +31,12 @@
                             <img src="{{ asset('assets/images/list-rental/rental-1.png') }}" alt="">
                             <div class="py-3 px-4 text-center h-100">
                                 <h3 class="h5 fw-bold text-capitalize">choose your plan for unikat e-bike rental</h3>
-                                <p class="mb-0">At UNIKAT, renting an e-bike for your Bali adventure is easy and hassle-free.
-                                    Select your rental period and the pick-up/drop-off location that's most convenient for you.
-                                    Contact us to make your booking. Our team is always ready to assist you with any questions
+                                <p class="mb-0">At UNIKAT, renting an e-bike for your Bali adventure is easy and
+                                    hassle-free.
+                                    Select your rental period and the pick-up/drop-off location that's most convenient for
+                                    you.
+                                    Contact us to make your booking. Our team is always ready to assist you with any
+                                    questions
                                     you may have.</p>
                             </div>
                         </div>
@@ -45,7 +48,8 @@
                                 <h3 class="h5 fw-bold text-capitalize">your e-bike is ready for you to ride</h3>
                                 <p class="mb-0">On the rental day, come to our store or request a delivery service to your
                                     location. Our staff will provide you with a brief tutorial on how to operate the e-bike
-                                    safely. We will also provide you with a map and suggested routes to help you make the most
+                                    safely. We will also provide you with a map and suggested routes to help you make the
+                                    most
                                     of your adventure.</p>
                             </div>
                         </div>
@@ -54,10 +58,14 @@
                         <div class="slide border">
                             <img src="{{ asset('assets/images/list-rental/rental-3.png') }}" alt="">
                             <div class="py-3 px-4 text-center h-100">
-                                <h3 class="h5 fw-bold text-capitalize">enjoy exploring Bali with freedom and eco-friendly</h3>
-                                <p class="mb-0">With your e-bike, you have the freedom and flexibility to explore Bali at your
-                                    own pace and eco-friendly. Our e-bikes are equipped with powerful motors and long-lasting
-                                    batteries, allowing you to ride smoothly and effortlessly through Bali's scenic routes and
+                                <h3 class="h5 fw-bold text-capitalize">enjoy exploring Bali with freedom and eco-friendly
+                                </h3>
+                                <p class="mb-0">With your e-bike, you have the freedom and flexibility to explore Bali at
+                                    your
+                                    own pace and eco-friendly. Our e-bikes are equipped with powerful motors and
+                                    long-lasting
+                                    batteries, allowing you to ride smoothly and effortlessly through Bali's scenic routes
+                                    and
                                     hidden gems.</p>
                             </div>
                         </div>
@@ -140,7 +148,8 @@
                             </li>
                             <li>
                                 <b>convenient ride</b>
-                                <p>e-bike rental includes a helmet, lamp, road apps, route map, and lock. It's convenient!</p>
+                                <p>e-bike rental includes a helmet, lamp, road apps, route map, and lock. It's convenient!
+                                </p>
                             </li>
                             <li>
                                 <b>Easy to Get</b>
@@ -184,7 +193,7 @@
                     </div>
                 </div>
                 <div class="text-center pt-4">
-                    <a href="" class="btn btn-success px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
+                    <a href="" class="btn b-green text-white px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
                     <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold border">MORE INFO</a>
                 </div>
             </div>
@@ -207,7 +216,8 @@
                                         lock.</li>
                                     <li>Full support for e-bike maintenance and safety emergencies.</li>
                                     <li>Net price; service and tax included.</li>
-                                    <li>Transport fee up to 20 KM delivery and pickup for rentals will be charged IDR. 200.000 /
+                                    <li>Transport fee up to 20 KM delivery and pickup for rentals will be charged IDR.
+                                        200.000 /
                                         bike</li>
                                 </ol>
                                 </p>

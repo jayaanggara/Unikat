@@ -10,7 +10,7 @@
                         <h1 class="fw-48 fw-bold text-uppercase text-white">Experience bali
                             bike never before with our e-bike rentals and tours</h1>
                         <div>
-                            <a href="" class="btn btn-success px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
+                            <a href="" class="btn b-green text-white px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
                             <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold">E-BIKE TOUR</a>
                         </div>
                     </div>

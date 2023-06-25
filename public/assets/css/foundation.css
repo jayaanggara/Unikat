@@ -1,6 +1,7 @@
 /* Foundation by jack-- */
 :root{
 	--main-color:#202020;
+    --bg-nav:#1A1A1A;
     --soft-black:#303030;
 	--green:#109B1E;
 	--white:#F5F5F5;
@@ -136,6 +137,9 @@
 }
 .b-soft-white{
     background-color: var(--soft-white) !important;
+}
+.b-nav{
+    background-color: var(--bg-nav) !important;
 }
 
 
