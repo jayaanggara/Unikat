@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
-    <header
-        style="background-image: url('{{ asset('assets/images/background/background-about.png') }}'); height: 80vh;background-position: center;background-repeat: no-repeat;background-size: cover;">
+    <header class="header-background"
+        style="background-image: url('{{ asset('assets/images/background/background-about.png') }}'); ">
         <div class="container h-100">
             <div class="row align-items-center h-100">
                 <div>

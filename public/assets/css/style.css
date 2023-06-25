@@ -28,11 +28,20 @@ h1,h2,h3,h4,h5,h6{
 }
 
 /* navbar */
+.navbar{
+  z-index: 9999;
+}
 .navbar .nav-link{
   font-size: 13px;
   font-style: italic;
   font-family: 'poppins', sans-serif;
   font-weight: bold;
+}
+
+/* header */
+
+.header-background{
+  height: 80vh;background-position: center;background-repeat: no-repeat;background-size: cover;
 }
 
 .slider-default.no-nav .owl-nav{
