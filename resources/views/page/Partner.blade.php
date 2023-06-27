@@ -6,11 +6,15 @@
             <div class="row align-items-center h-100">
                 <div>
                     <div class="col-md-6">
-                        <h1 class="fw-48 fw-bold text-uppercase text-white">partnership with unikat for a sustainable and
+                        <h1 class="f-36 pb-3 fw-bold text-uppercase text-white f-md-27">partnership with unikat for a
+                            sustainable and
                             better Bali</h1>
                         <div>
-                            <a href="" class="btn b-green text-white px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
-                            <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold">LEARN MORE</a>
+                            <a href=""
+                                class="btn b-green text-white px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">BOOK
+                                NOW</a>
+                            <a href="" class="btn btn-light px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">LEARN
+                                MORE</a>
                         </div>
                     </div>
                 </div>
@@ -24,7 +28,7 @@
             <div class="col-md-10 mx-auto pt-5 p-b-150 p-md-b-50">
                 <div class="row align-items-center pb-4">
                     <div class="col-md-6">
-                        <h2 class="text-uppercase f-24 fw-bold pb-2">Your partner for a </br> healthy, sustainable,</br> and
+                        <h2 class="text-uppercase f-20 fw-bold pb-2">Your partner for a </br> healthy, sustainable,</br> and
                             better
                             Bali </h2>
                     </div>
@@ -69,33 +73,31 @@
     <section>
         <div class="container">
             <div class="col-md-10 mx-auto pt-5 p-b-150 p-md-b-50">
-                <h2 class="fw-bold h4 text-center">why partner with us?</h2>
+                <h2 class="fw-bold h4 text-center text-uppercase">why partner with us?</h2>
                 <div class="row row-cols-1 row-cols-md-3 py-4">
                     <div class="col pb-4">
-                        <div class="w-100 h-100 border px-4 py-5 text-center">
+                        <div class="w-100 h-100 border-hover-green b-white px-4 py-5 text-center">
                             <img src="{{ asset('assets/images/icon/partner-1.png') }}" alt="">
-                            <h3 class="h5 fw-bold py-3">Diversity for sustainability</h3>
+                            <h3 class="f-16 fw-bold py-3">Diversity for sustainability</h3>
                             <p>We believe that sustainability is a team effort. That's why we're open to partner with
                                 businesses
                                 of all types - including hotels, cafes, and more.</p>
                         </div>
                     </div>
                     <div class="col pb-4">
-                        <div class="w-100 h-100 border px-4 py-5 text-center">
-                            <img src="{{ asset('assets/images/icon/partner-1.png') }}" alt="">
-                            <h3 class="h5 fw-bold py-3">Diversity for sustainability</h3>
-                            <p>We believe that sustainability is a team effort. That's why we're open to partner with
-                                businesses
-                                of all types - including hotels, cafes, and more.</p>
+                        <div class="w-100 h-100 border-hover-green b-white px-4 py-5 text-center">
+                            <img src="{{ asset('assets/images/icon/partner-2.png') }}" alt="">
+                            <h3 class="f-16 fw-bold py-3">Meaningful Connection</h3>
+                            <p>Deeply connect to your audience with a shared purpose to create a sustainable, healthy
+                                lifestyle that promotes better environment for Bali.</p>
                         </div>
                     </div>
                     <div class="col pb-4">
-                        <div class="w-100 h-100 border px-4 py-5 text-center">
-                            <img src="{{ asset('assets/images/icon/partner-1.png') }}" alt="">
-                            <h3 class="h5 fw-bold py-3">Diversity for sustainability</h3>
-                            <p>We believe that sustainability is a team effort. That's why we're open to partner with
-                                businesses
-                                of all types - including hotels, cafes, and more.</p>
+                        <div class="w-100 h-100 border-hover-green b-white px-4 py-5 text-center">
+                            <img src="{{ asset('assets/images/icon/partner-3.png') }}" alt="">
+                            <h3 class="f-16 fw-bold py-3">Creating Loyalty</h3>
+                            <p>Create a genuine relationship that eventually leads to loyalty among businesses and
+                                communities that believe in sustainable lifestyle.</p>
                         </div>
                     </div>
                 </div>

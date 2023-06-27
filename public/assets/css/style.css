@@ -7,18 +7,30 @@ html, body{
 
 *{
     margin: 0;
+    font-size: 14px;
     font-family: 'Roboto', sans-serif;
 }
 h1,h2,h3,h4,h5,h6{
   font-family: 'Poppins', sans-serif;
 }
+
+a{
+  text-decoration: none;
+}
 .border-btm{
-  border-bottom: 1px solid #cfcfcf;
+  border-bottom: 1px solid #cfcfcf !important;
 }
 .border-tp{
   border-top: 1px solid #cfcfcf;
 }
 
+.border-hover-green{
+  border: 2px solid #CFCFCF;
+}
+
+.border-hover-green:hover{
+  border: 2px solid #109B1E;
+}
 .btn-hover-black{
   border: 1px solid black;
 }
@@ -43,6 +55,12 @@ h1,h2,h3,h4,h5,h6{
 .header-background{
   height: 80vh;background-position: center;background-repeat: no-repeat;background-size: cover;
 }
+
+/* slider */
+
+.owl-prev.disabled , .owl-next.disabled{
+  opacity:0;
+  }
 
 .slider-default.no-nav .owl-nav{
   display: none;

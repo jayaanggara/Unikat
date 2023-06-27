@@ -14,17 +14,30 @@
     --font-10:10px;
     --font-12:12px;
     --font-14:14px;
-    --font-15:15px;
+    --font-16:16px;
     --font-18:18px;
-	--font-21:21px;
+	--font-20:20px;
     --font-24:24px;
 	--font-27:27px;
 	--font-30:30px;
-	--font-48:48px;
+	--font-36:36px;
+    --font-48:48px;
 	--font-light:'Poppins', sans-serif;
 	--font-bold:'Poppins', sans-serif;
 }
 
+/* font */
+.f-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.f-roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* letter-spacing */
+.l-space-1{
+    letter-spacing: 1px;
+}
 /* height */
 .h-full{
     height: 100% !important;
@@ -192,14 +205,14 @@
 .f-14{
     font-size: var(--font-14) !important;
 }
-.f-15{
-    font-size: var(--font-15) !important;
+.f-16{
+    font-size: var(--font-16) !important;
 }
 .f-18{
     font-size: var(--font-18) !important;
 }
-.f-21{
-    font-size: var(--font-21) !important;
+.f-20{
+    font-size: var(--font-20) !important;
 }
 .f-24{
     font-size: var(--font-24) !important;
@@ -212,6 +225,9 @@
 }
 .f-48{
     font-size: var(--font-48) !important;
+}
+.f-36{
+    font-size: var(--font-36) !important;
 }
 
 /* margin */
@@ -895,14 +911,14 @@
     .f-md-14{
         font-size: var(--font-14) !important;
     }
-    .f-md-15{
-        font-size: var(--font-15) !important;
+    .f-md-16{
+        font-size: var(--font-16) !important;
     }
     .f-md-18{
         font-size: var(--font-18) !important;
     }
-    .f-md-21{
-        font-size: var(--font-21) !important;
+    .f-md-20{
+        font-size: var(--font-20) !important;
     }
     .f-md-27{
         font-size: var(--font-27) !important;

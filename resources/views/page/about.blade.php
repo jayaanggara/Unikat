@@ -6,11 +6,15 @@
             <div class="row align-items-center h-100">
                 <div>
                     <div class="col-md-6">
-                        <h1 class="fw-48 fw-bold text-uppercase text-white">modest team with a big dream for sustainability
+                        <h1 class="f-36 pb-3 fw-bold text-uppercase text-white f-md-27">modest team with a big dream for
+                            sustainability
                             and better Bali</h1>
                         <div>
-                            <a href="" class="btn b-green text-white px-4 rounded-0 mx-1 fw-bold">BOOK NOW</a>
-                            <a href="" class="btn btn-light px-4 rounded-0 mx-1 fw-bold">LEARN MORE</a>
+                            <a href=""
+                                class="btn b-green text-white px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">BOOK
+                                NOW</a>
+                            <a href="" class="btn btn-light px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">LEARN
+                                MORE</a>
                         </div>
                     </div>
                 </div>
@@ -26,7 +30,7 @@
                         <img src="{{ asset('assets/images/logo-black.png') }}" alt="">
                     </div>
                     <div class="col-md-6">
-                        <h2 class="text-uppercase f-24 fw-bold">
+                        <h2 class="text-uppercase f-20 fw-bold">
                             about unikat</h2>
                         <p>Welcome to UNIKAT, your ultimate destination for e-bike tours and rentals in Bali. We provide a
                             convenient, sustainable, and exciting way for you to explore Bali with ease. Our high-quality
@@ -42,11 +46,10 @@
     <section>
         <div class="container">
             <div class="col-md-10 mx-auto p-t-150 p-b-125 p-md-t-50 p-md-b-50">
-                <div class="row align-items-center pb-4">
+                <div class="row align-items-center">
                     <div class="col-md-6">
-                        <h2 class="text-uppercase f-24 fw-bold pb-2">Immerse yourself in a worry-free exploration adventure
-                            with
-                            UNIKAT E-Bike Rental</h2>
+                        <h2 class="text-uppercase f-20 fw-bold">Immerse yourself in a worry-free </br>
+                            exploration adventure with</br> UNIKAT E-Bike Rental</h2>
                     </div>
                     <div class="col-md-6">
                         <p>Get set for an adventure like no other, with UNIKAT's top-of-the-line safety gear and e-bikes.
@@ -63,7 +66,7 @@
                             <img src="{{ asset('assets/images/icon/about-1.png') }}" alt="">
                         </div>
                         <div class="col-md-11">
-                            <b>Satisfaction Guarantee</b>
+                            <b class="f-16">Satisfaction Guarantee</b>
                             <p class="mb-0">We want to make sure you have the best experience possible. If you decide to
                                 cancel before you
                                 reach the 2KM mark, we'll provide a full refund with no questions asked. We value your
@@ -75,7 +78,7 @@
                             <img src="{{ asset('assets/images/icon/about-2.png') }}" alt="">
                         </div>
                         <div class="col-md-11">
-                            <b>Satisfaction Guarantee</b>
+                            <b class="f-16">Satisfaction Guarantee</b>
                             <p class="mb-0">We want to make sure you have the best experience possible. If you decide to
                                 cancel before you
                                 reach the 2KM mark, we'll provide a full refund with no questions asked. We value your
@@ -87,7 +90,7 @@
                             <img src="{{ asset('assets/images/icon/about-3.png') }}" alt="">
                         </div>
                         <div class="col-md-11">
-                            <b>Satisfaction Guarantee</b>
+                            <b class="f-16">Satisfaction Guarantee</b>
                             <p class="mb-0">We want to make sure you have the best experience possible. If you decide to
                                 cancel before you
                                 reach the 2KM mark, we'll provide a full refund with no questions asked. We value your
@@ -104,7 +107,7 @@
             <div class="col-md-10 mx-auto p-b-150 p-md-b-50">
                 <div class="row align-items-center pb-4">
                     <div class="col-md-6">
-                        <h2 class="text-uppercase f-24 fw-bold pb-2">designed for an eco-friendly </br> and comfortable ride
+                        <h2 class="text-uppercase f-20 fw-bold pb-2">designed for an eco-friendly </br> and comfortable ride
                             in
                             bali
                         </h2>
@@ -124,7 +127,7 @@
                                     style="width: 50px;">
                             </div>
                             <div class="col-md-10">
-                                <b>electric motor</b>
+                                <b class="f-16">electric motor</b>
                                 <p class="mb-0">Powerful motor up to 32 km/h for high-speed transport.</p>
                             </div>
                         </div>
@@ -134,7 +137,7 @@
                                     style="width: 50px;">
                             </div>
                             <div class="col-md-10">
-                                <b>Battery Powered</b>
+                                <b class="f-16">Battery Powered</b>
                                 <p class="mb-0">Powerful batteries last for around 100 kilometers.</p>
                             </div>
                         </div>
@@ -144,7 +147,7 @@
                                     style="width: 50px;">
                             </div>
                             <div class="col-md-10">
-                                <b>comfortable Ride</b>
+                                <b class="f-16">comfortable Ride</b>
                                 <p class="mb-0">High-quality suspension and brakes for smooth experience.</p>
                             </div>
                         </div>
@@ -154,7 +157,7 @@
                                     style="width: 50px;">
                             </div>
                             <div class="col-md-10">
-                                <b>Eco-Friendly</b>
+                                <b class="f-16">Eco-Friendly</b>
                                 <p class="mb-0">Using clean energy that offer zero emission footprint on every ride.</p>
                             </div>
                         </div>
@@ -173,7 +176,7 @@
             <div class="col-md-10 mx-auto py-5">
                 <div class="row align-items-center pb-4">
                     <div class="col-md-6">
-                        <h2 class="text-uppercase f-24 fw-bold pb-2">meet the team
+                        <h2 class="text-uppercase f-20 fw-bold pb-2">meet the team
                         </h2>
                     </div>
                     <div class="col-md-6">
@@ -181,7 +184,10 @@
                             their passion and commitment to delivering outstanding results.</p>
                     </div>
                 </div>
-                <div class="row row-cols-md-3 row-cols-2">
+                <div class="text-center py-4">
+                    <i class="f-16 fw-bold">Office Team</i>
+                </div>
+                <div class="row row-cols-md-3 row-cols-1">
                     <div class="col">
                         <div class="text-center">
                             <img src="{{ asset('assets/images/about/team.png') }}" class="w-100" alt="">
@@ -203,6 +209,11 @@
                             <p class="mb-4">Title</p>
                         </div>
                     </div>
+                </div>
+                <div class="text-center py-4">
+                    <i class="f-16 fw-bold">Operational Team</i>
+                </div>
+                <div class="row row-cols-md-3 row-cols-1">
                     <div class="col">
                         <div class="text-center">
                             <img src="{{ asset('assets/images/about/team.png') }}" class="w-100" alt="">
