@@ -1,8 +1,12 @@
 @extends('layouts.app')
 
 @section('content')
-    <header class="header-background"
-        style="background-image: url('{{ asset('assets/images/background/background-home.png') }}');">
+    <video autoplay muted loop id="myVideo">
+        <source src="{{ asset('assets/video/background-video.mp4') }}" type="video/mp4">
+        Your browser does not support HTML5 video.
+    </video>
+
+    <div class="content">
         <div class="container h-100">
             <div class="row align-items-center h-100">
                 <div>
@@ -21,7 +25,7 @@
                 </div>
             </div>
         </div>
-    </header>
+    </div>
 
 
     <section class="b-main-color">

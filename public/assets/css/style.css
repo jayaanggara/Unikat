@@ -56,6 +56,26 @@ a{
   height: 80vh;background-position: center;background-repeat: no-repeat;background-size: cover;
 }
 
+/* video */
+#myVideo {
+  position: relative;
+  right: 0;
+  bottom: -10px;
+  width: 100%;
+  height: 80vh;
+  object-fit: cover;
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  padding: 20px;
+  transform: translateY(-60%);
+  height: 100%;
+}
+
+
 /* slider */
 
 .owl-prev.disabled , .owl-next.disabled{
